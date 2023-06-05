@@ -18,22 +18,22 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h2>Certificaciones</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>CPTE Certified Penetration Testing Engineer, Mile2</li>
+	<li>Cyber Risk Intelligence and Incident Response, SecurityScorecard</li>
+	<li>OSINT Level 2, EC‑Council</li>
+	<li>ISO 27001 Internal Auditor, IQNET Association</li>
+	<li>Diplomado en Seguridad Informática ágil, Instituo de Ciberdefensa</li>
+	<liCyberOps Associate, Cisco</li>
+	<li>Ransomware:  Identify, Protect, Detect, Recover, (ISC)2</li>
+	<li>CCNA: Introduction to Networks, Cisco</li>
+	<li>IT Security:  Defense against the digital dark arts, Google</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Scrum Fundamentals Certified, SCRUMstudy</li>
+	<li>Cyber Security Foundation Professional Certificate ‑ CSFPC, CertiProf</li>
+	<li>Excel Avanzado, Macros y VBA, UNI</li>
 </ul>
 
 <h2>Projects</h2>
