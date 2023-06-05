@@ -43,17 +43,12 @@ email: david.ramos.rod@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: David Ramos
+    bio:  Threat Intelligence | Ethical Hacker | CTF Player
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: david_ramos_rod
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,7 +64,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
