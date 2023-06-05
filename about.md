@@ -21,7 +21,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>OSINT Level 2, EC‑Council</li>
 	<li>ISO 27001 Internal Auditor, IQNET Association</li>
 	<li>Diplomado en Seguridad Informática ágil, Instituo de Ciberdefensa</li>
-	<liCyberOps Associate, Cisco</li>
+	<li>CyberOps Associate, Cisco</li>
 	<li>Ransomware:  Identify, Protect, Detect, Recover, (ISC)2</li>
 	<li>CCNA: Introduction to Networks, Cisco</li>
 	<li>IT Security:  Defense against the digital dark arts, Google</li>
