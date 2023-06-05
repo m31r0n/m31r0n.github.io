@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://m31r0n.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: david.ramos.rod
+twitter: david_ramos_rod
+instagram: davidramosr
+linkedin: david-ramos-rodriguez
+github: m31r0n
+email: david.ramos.rod@gmail.com
 
 authors:
   johndoe:
